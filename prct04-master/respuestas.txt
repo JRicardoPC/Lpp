@@ -1,0 +1,3 @@
+27. RVM es una herramienta de linea de comandos que permite instalar facilmente, gestionar y trabajar con multiples entornos de rubi con interpretes de conjuntos de gemas
+34. Tras ejecutar las 2 formas, no se aprecian diferencias entre ellas 
+41. La diferencia es que con el pry se pueden hacer pruebas con el codigo
